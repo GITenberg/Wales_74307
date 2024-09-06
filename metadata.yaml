@@ -1,0 +1,32 @@
+_repo: Wales_74307
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davies, William Watkin
+    alias: Davies, W. Watkin
+    birthdate: 1891
+    deathdate: 1973
+    gutenberg_agent_id: '57434'
+    url: http://www.gutenberg.org/2009/agents/57434
+description: ''
+gutenberg_issued: '2024-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74307'
+  lccn: '25004113'
+language: en
+pgterms:marc904: https://archive.org/details/wales0000davi
+pgterms:marc905: 20240817222647davies
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bHenry Holt and Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wales -- History'
+- !lcc 'DA'
+- GITenberg
+title: Wales
+url: http://www.gutenberg.org/ebooks/74307
